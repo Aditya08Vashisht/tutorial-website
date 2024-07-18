@@ -21,7 +21,7 @@ export default function Commit() {
             rel="noopener noreferrer"
             style={{ textDecoration: "none" }}
           >
-            <button className="btn-bg rounded-4 w-fit underline text-blue-500 bg-whi px-8 py-2">
+            <button className="btn-bg rounded-4 w-fit underline text-blue-500 bg-white px-8 py-2">
               Contact Now
             </button>
           </a>
