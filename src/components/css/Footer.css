@@ -1,0 +1,32 @@
+.footer-bg {
+  background-color: #d3def7;
+}
+.txt {
+  color: #392d82;
+  font-weight: bold;
+}
+
+.bh:hover {
+  color: black;
+}
+.e:hover {
+  text-decoration: underline;
+}
+
+.f {
+  color: #0645ad;
+}
+.font-medium {
+  font-weight: 250;
+}
+.i {
+  color: #a44eac;
+}
+
+.l {
+  color: #0a66c2;
+}
+
+.x {
+  color: rgb(175, 168, 168);
+}
